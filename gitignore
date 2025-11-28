@@ -1,0 +1,13 @@
+node_modules/
+.cache/
+.upm/
+attached_assets/
+neokex_fca_database/
+.env
+.env.local
+account.txt
+neokex_fca_database.sqlite
+*.log
+.DS_Store
+.vscode/
+.replit
